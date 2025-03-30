@@ -190,7 +190,7 @@ int main()
         getchar();
     }
     system("cls"); 
-    if(x == 100) { // giang
+    if(x == 100) {
         printf("No cheating...... You have done this earlier also.");
     }
     if(x == 90){
